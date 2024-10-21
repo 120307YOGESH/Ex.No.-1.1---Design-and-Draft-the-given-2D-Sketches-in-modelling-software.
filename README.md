@@ -1,4 +1,4 @@
-# Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
+[Edm Ex 1.2.pdf](https://github.com/user-attachments/files/17455603/Edm.Ex.1.2.pdf)# Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
 
@@ -39,11 +39,9 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 
 ## SKETCHS
-![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-
-![Uploading Screenshot 2024-10-21 105405.png…]()
+![Screenshot 2024-10-21 105405](https://github.com/user-attachments/assets/36ee3c87-75ec-49f0-a583-4b0805564a61)
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
